@@ -93,8 +93,7 @@ function sextoPrograma() {
               //25
     if(num % i == 0) {
       //50  50 
-      //50  49
-      //50  48
+      //50  49     //50  48
       //50  25  
       console.log(i); //50 25 10  5  1 
     };
